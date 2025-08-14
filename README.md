@@ -1,4 +1,4 @@
-# Incubation-Agentic-AI-2025-batch-2
+# Incubation Agentic AI 2025 Batch 3
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ This workshop aims to introduce Agentic AI into organizational workflows using [
 
 ## 👉 Agenda
 
-<img width="1236" height="684" alt="image" src="https://github.com/user-attachments/assets/3a90bed7-4126-4be8-a096-2092507e3494" />
+<img width="1112" height="584" alt="image" src="https://github.com/user-attachments/assets/4bc75ea5-c91d-4e12-8470-ba90ce3591a4" />
 
 <i>
 Please note that the agenda listed above is for reference only and may not reflect the actual workshop time or duration.
