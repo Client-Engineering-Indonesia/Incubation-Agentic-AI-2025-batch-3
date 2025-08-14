@@ -25,20 +25,7 @@ Workshop times and duration are subject to change.
 
 After attending this workshop, you will be able to:
 - Learn how to evaluate potential use cases in your own organization.
-- Hands-on experience building a Retrieval-Augmented Generation (RAG) app using a visual flow interface.
+- Hands-on experience building and automating a Retrieval-Augmented Generation (RAG) app.
 - Learn to develop reasoning-capable agents that can use tools and plan tasks.
-- Move from lab to production: operationalize your AI solution.
-- Understand how to manage AI risks, compliance, and transparency.
-
-## 🛠️ About Lab
-
-In this lab, you step into the role of a contract reviewer, tasked with a critical responsibility: ensuring every contract adheres to policy standards. This process is often time-consuming—especially when dealing with contracts that span hundreds of pages.
-
-Now, you've discovered the transformative potential of Agentic AI. It offers a game-changing opportunity to streamline manual efforts without compromising on quality. Inspired by this, you're ready to lead the charge in your department—designing the framework and assembling the full technology stack needed to embed this capability into your operations.
-
-Here is the solution overview that you will build:
-
-<img width="1081" height="462" alt="image" src="https://github.com/user-attachments/assets/a912a603-9c99-48dd-9d7b-908b58b8fcc5" />
-
-
+- Stay up to date with the latest AI advancements and innovations from IBM
 
