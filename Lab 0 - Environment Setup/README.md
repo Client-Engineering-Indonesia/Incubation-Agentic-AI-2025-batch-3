@@ -1,41 +1,6 @@
 # Environment Setup 
 This guide helps you access and set up the tools used during the workshop: Langflow, Elasticsearch (Watsonx Discovery), Watsonx Orchestrate, and Watsonx.ai.
 
-## 📌 Langflow
-
-### 1. Access Langflow
-Each participant has been assigned an account number with a Langflow URL via email. To open Langflow:
-- Find the **email** we sent you and open the attached document
-- Look for your account number in the **"Pembagian Akun Langflow"** column in the document
-- Navigate to page **Langflow&Elasticsearch accounts**
-- Click on the **Langflow URL** according to your assigned account number
-<img width="1440" height="900" alt="Screenshot 2025-07-17 at 11 27 05" src="https://github.com/user-attachments/assets/8e29b353-7b9c-48a2-a9e6-4f420c105b69" />
-
----
-
-## 📌 Elasticsearch
-
-### 1. Access Elasticsearch
-- Refer to the **document** you received via **email** (same as the one for Langflow)
-- Navigate to page **Langflow&Elasticsearch accounts**
-- Click on the **"Elasticsearch URL (UI)"** according to your assigned account number
-<img width="1440" height="900" alt="Screenshot 2025-07-23 at 15 17 01" src="https://github.com/user-attachments/assets/a9f7ecd6-7f22-4bf8-9594-7001b939124b" />
-
-### 2. Login to Elasticsearch
-- Refer to the **document** you received via **email**, in page **Langflow&Elasticsearch accounts**
-- Copy and paste the **"Elasticsearch Username" & "Elasticsearch Password** according to your assigned account number.
-<img width="1440" height="900" alt="Screenshot 2025-07-22 at 14 41 31" src="https://github.com/user-attachments/assets/999d3513-85d0-464c-b6e8-171510032f46" />
-
-
-After login, see the home page:
-<img width="1440" height="900" alt="Screenshot 2025-07-23 at 15 20 21" src="https://github.com/user-attachments/assets/56034061-c856-4861-9136-48144b3bf1fc" />
-
-### 3. Access Elasticsearch URL
-- Refer to the **document** you received via **email**, in page **Langflow&Elasticsearch accounts**
-- Copy and paste the **"Elasticsearch URL"** according to your assigned account number.
-
----
-
 ## 📌 watsonx ai
 
 ### 1. List of users
